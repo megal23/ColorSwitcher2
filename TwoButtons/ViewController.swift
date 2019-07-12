@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         uiBackground.backgroundColor = #colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0)
         // Do any additional setup after loading the view.
     }
+    //ANOTHER NEW COMMENT conflicting
     
     @IBAction func RedButton(_ sender: UIButton) {
         print("red button was pressed")
